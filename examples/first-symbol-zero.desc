@@ -1,0 +1,5 @@
+initialState=q0
+acceptState=qa
+rejectState=qr
+variant=CLASSICAL
+rules=q0,0,qa,0,RIGHT<>q0,1,qr,1,RIGHT<>q0,*,qr,*,RIGHT
